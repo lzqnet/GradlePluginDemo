@@ -1,0 +1,4 @@
+include ':groovypluginlib'
+include ':pluginlib'
+include ':app'
+rootProject.name = "GradlePluginDemo"
